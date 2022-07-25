@@ -1,5 +1,12 @@
-# Book Search Engine Starter Code
+# Book Search Engine 
 
-mongodb+srv://rob-p:Heidi2022@cluster0.sv9ctyk.mongodb.net/book-search?retryWrites=true&w=majority
+## Table of Content
 
-mongodb+srv://rob-p:Heidi2022@cluster0.sv9ctyk.mongodb.net/pizza-hunt?retryWrites=true&w=majority
+## Description
+
+This application allows you to go throught book list from an API. You can seach by tile and add books you like to your list. You are able to signup as a user and login to have a list of your books which you created.
+
+## Screnshot
+
+Home Page
+
